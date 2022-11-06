@@ -1,0 +1,4 @@
+name = "Mrode"
+uuid = "4ce4d8e7-25b9-416e-8591-4321edfda3d4"
+authors = ["Xijiang Yu <xijiang@users.noreply.github.com>"]
+version = "0.1.0"
